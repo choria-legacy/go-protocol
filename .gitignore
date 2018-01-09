@@ -1,0 +1,7 @@
+nohup.out
+.vscode
+*.db
+*.bak
+vendor
+*.swp
+*.coverprofile
