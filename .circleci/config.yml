@@ -9,7 +9,7 @@ jobs:
     steps:
       - checkout
 
-      - run: go get github.com/golang/dep/cmd/dep
+      - run: go get github.com/Masterminds/glide
       - run: go get github.com/onsi/ginkgo/ginkgo
-      - run: dep ensure -v
+      - run: glide install
       - run: ginkgo -r -skipMeasurements .
