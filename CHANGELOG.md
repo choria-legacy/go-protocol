@@ -1,5 +1,7 @@
 |Date      |Issue |Description                                                                                              |
 |----------|------|---------------------------------------------------------------------------------------------------------|
+|2018/06/14|      |Release 1.1.1                                                                                            |
+|2018/06/14|20    |Restore the ability to disable schema validation                                                         |
 |2018/06/14|      |Release 1.1.0                                                                                            |
 |2018/06/14|17    |Add SecurityProvider handling to `NewSecureReplyFromTransport`                                           |
 |2018/05/22|      |Release 1.0.2                                                                                            |
