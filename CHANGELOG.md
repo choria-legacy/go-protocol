@@ -1,5 +1,7 @@
 |Date      |Issue |Description                                                                                              |
 |----------|------|---------------------------------------------------------------------------------------------------------|
+|2018/06/14|      |Release 1.1.0                                                                                            |
+|2018/06/14|17    |Add SecurityProvider handling to `NewSecureReplyFromTransport`                                           |
 |2018/05/22|      |Release 1.0.2                                                                                            |
 |2018/05/22|13    |Do not attempt to read public key data when operating in insecure mode                                   |
 |2018/05/09|      |Release 1.0.1                                                                                            |
