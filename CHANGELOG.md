@@ -1,5 +1,7 @@
 |Date      |Issue |Description                                                                                              |
 |----------|------|---------------------------------------------------------------------------------------------------------|
+|2018/07/11|      |Release 1.2.0                                                                                            |
+|2018/07/11|23    |Disable full JSON Schema validations by default                                                          |
 |2018/06/14|      |Release 1.1.1                                                                                            |
 |2018/06/14|20    |Restore the ability to disable schema validation                                                         |
 |2018/06/14|      |Release 1.1.0                                                                                            |
