@@ -1,5 +1,7 @@
 |Date      |Issue |Description                                                                                              |
 |----------|------|---------------------------------------------------------------------------------------------------------|
+|2019/06/21|      |Release 1.3.1                                                                                            |
+|2019/06/21|      |Support `go mod`                                                                                         |
 |2018/07/31|      |Release 1.3.0                                                                                            |
 |2018/07/31|26    |MCollective compatibility fixes for compound filters                                                     |
 |2018/07/11|      |Release 1.2.0                                                                                            |
