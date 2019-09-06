@@ -2,16 +2,12 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/golang:1.12
+      - image: circleci/golang:1.13
 
     working_directory: /go/src/github.com/choria-io/go-protocol
-
-    environment:
-      GO111MODULE: "on"
 
     steps:
       - checkout
 
       - run: go get github.com/onsi/ginkgo/ginkgo
-      - run: go mod vendor
       - run: ginkgo -r -skipMeasurements .
