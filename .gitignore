@@ -5,3 +5,5 @@ nohup.out
 vendor
 *.swp
 *.coverprofile
+*.iml
+.idea
