@@ -1,5 +1,7 @@
 |Date      |Issue |Description                                                                                              |
 |----------|------|---------------------------------------------------------------------------------------------------------|
+|2019/12/22|36,38 |Add filter utilities from various packages                                                               |
+|2019/12/15|33    |Support Remote Signers like `aaasvc`                                                                     |
 |2019/09/06|      |Release 1.3.2                                                                                            |
 |2019/07/24|      |Make mocks available only during testing                                                                 |
 |2019/06/21|      |Release 1.3.1                                                                                            |
